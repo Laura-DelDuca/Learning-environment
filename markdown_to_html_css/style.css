@@ -1,0 +1,14 @@
+body {background-color: rgb(99, 160, 140);}
+
+#titre {text-align: center}
+
+#intro {
+    text-align: center;
+    font-style: bold;
+}
+
+.soustitres {color: blue;
+text-align: center;
+}
+
+
